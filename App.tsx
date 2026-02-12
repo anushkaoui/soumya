@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { ProposalStatus } from './types';
-import FloatingHearts from '/Users/anushkagupta/Downloads/soumya's-galentine-proposal/FloatingHearts.tsx';
+import FloatingHearts from './FloatingHearts';
+
 import { Heart, Music, Stars, PartyPopper } from 'lucide-react';
 
 // Assets
